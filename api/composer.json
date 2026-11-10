@@ -76,7 +76,7 @@
     "friendsofphp/php-cs-fixer": "3.95.27",
     "hautelook/alice-bundle": "2.17.3",
     "justinrainbow/json-schema": "6.14.0",
-    "phpstan/phpstan": "2.3.2",
+    "phpstan/phpstan": "2.3.4",
     "phpunit/phpunit": "13.4.4",
     "rector/rector": "2.7.0",
     "psalm/phar": "6.20.1",
